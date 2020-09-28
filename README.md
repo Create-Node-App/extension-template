@@ -13,7 +13,7 @@ This section is needed in case of depending on other extensions. For example, `r
 Detail how the crwp command should be executed to add your extension, e.g:
 
 ```sh
-$ npx crwp my-app --extend=Create-Node-App/extension-template@master#type=src
+$ npx crwp my-app --extend="Create-Node-App/extension-template@master#type=src"
 ```
 
 ## Docs
