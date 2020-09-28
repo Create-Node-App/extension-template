@@ -6,7 +6,7 @@ Create Node App extension template.
 
 ## Dependencies
 
-This section is necessary in case another extension must be in the generated boilerplate for yours to work properly. For example, `redux` extension is needed to use `redux saga`.
+This section is needed in case of depending on other extensions. For example, `redux` extension is needed to use `redux saga`.
 
 ## How to use
 
